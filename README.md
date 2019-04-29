@@ -1,3 +1,3 @@
 # 📁Zentachaindocs📁
 
-Here you can find some of our documents!
+Here you can find some  documents of Zentachain!
