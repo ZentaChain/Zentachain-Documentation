@@ -1,11 +1,15 @@
-### *📁Zentachaindocs📁*
+#### Zentachaindocs
 
-*Documents of Zentachain!*
+Documents of Zentachain!
 
-*All documents have copyrights and they are licensed by Zentachain. Any copying or changing of text and images is not allowed but sharing is allowed only with the original files, texts, images, and codes.*
+All documents have copyrights and they are licensed by Zentachain. Any copying or changing of text and images is not allowed but sharing is allowed only with the original files, texts, images, and codes.
 
-*The Zentachain documents are here to get cognizance about Zentachain and our vision.*
+The Zentachain documents are here to get cognizance about Zentachain and our vision.
 
-#### *Check our [Official Page](https://zentachain.io/) Zentachain*
+For more, information check please our docspage:
+
+[Zentadocs](https://)
+
+[Zentachain.io](https://zentachain.io/)
 
 
