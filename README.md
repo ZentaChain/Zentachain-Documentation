@@ -1,5 +1,5 @@
 ## Documentation
-This documentation is about Zentalk, Zentanetwork, Zentanodes, Zentameshnet, and staking on the Zentanetwork or Katsumi.
+This documentation is about Zentalk, Zentamesh, Zentanodes, Explorer, Katsumi and the Zentanetwork.
 
 [Zentachain Doc-Hub](http://docs.zentachain.io)
 
