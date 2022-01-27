@@ -1,5 +1,5 @@
 ## Documentation
-It contains information about Zentachain, Zentalk, Zentameshnet, Zentanodes, Katsumi, and the Zentanetwork.
+This document contains information about Zentachain, Zentalk, Zentameshnet, Zentanodes, Katsumi, and the Zentanetwork.
 
 [Zentachain Doc-Hub](http://docs.zentachain.io)
 
