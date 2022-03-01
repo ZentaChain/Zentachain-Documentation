@@ -4,7 +4,7 @@ This document contains information about Zentachain, Zentalk, Zentameshnet, Zent
 [Zentachain Doc-Hub](http://docs.zentachain.io)
 
 ## License
-All documents have copyrights and they are licensed by Zentachain. Copy or modification of any text and image is not allowed but sharing is allowed only with the original files, texts, images, and codes.
+Documents are copyrighted and licensed by Zentachain. It is prohibited to copy or modify any text or image, but it is allowed to share the original files, texts, images, and codes.
 
 ## Copyright
 All rights reserved by [Zentachain](https://zentachain.io/)
