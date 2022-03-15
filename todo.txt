@@ -1,17 +1,10 @@
 Todo's:
 
-Zentanode Explorer:
-Introduction connect device
-Interacting with Explorer
-
 Staking:
 Add staking reward
-Calculator //MAybe
+Calculator // Maybe
 
 Katsumi: // Rebranding
 Remove Katsumi from Uniswap
 Update Katsumi Contract
 Update Katsumi on Etherscan
-
-Zentanode:
-__
