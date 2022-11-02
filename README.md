@@ -1,5 +1,5 @@
 ## Documentation
-This document contains information about Zentachain, Zentalk, Zentameshnet, Zentanodes, Alnitak, and the Zentanetwork.
+This document contains information about Zentachain, Zentalk, Zentameshnet, Zentanodes and the Zentanetwork.
 
 [Zentachain Doc-Hub](http://docs.zentachain.io)
 
